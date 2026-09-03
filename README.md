@@ -1,6 +1,5 @@
-# 📈 Money Mentor - AI Stock Prediction Dashboard
+# 📈  AI Stock Prediction Dashboard
 
-**Money Mentor** is an AI-powered stock market prediction and technical analysis platform. It features a modern, responsive **Vite + React** frontend with full **Dark and Light Mode** toggle support, paired with a high-performance **FastAPI** Python backend utilizing a **Sequential LSTM (Long Short-Term Memory)** neural network for stock price forecasting.
 
 ---
 
